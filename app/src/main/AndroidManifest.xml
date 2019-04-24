@@ -19,7 +19,20 @@
         <activity android:name=".MainActivity" />
         <activity android:name=".CapitaoAmericaActivity" />
         <activity android:name=".HomemDeFerroActivity" />
-        <activity android:name=".HomemAranhaActivity"></activity>
+        <activity android:name=".HomemAranhaActivity" />
+        <activity android:name=".MagnetoActivity" />
+        <activity android:name=".HulkActivity" />
+        <activity android:name=".DeadpoolActivity" />
+        <activity android:name=".LoganActivity" />
+        <activity android:name=".MotoqueiroFantasmaActivity" />
+        <activity android:name=".MaquinaDeCombateActivity" />
+        <activity android:name=".SupermanActivity" />
+        <activity android:name=".BatmanActivity" />
+        <activity android:name=".DemolidorActivity" />
+        <activity android:name=".HellboyActivity" />
+        <activity android:name=".ThorActivity" />
+        <activity android:name=".ColossusActivity" />
+        <activity android:name=".SurfistaPrateadoActivity"></activity>
     </application>
 
 </manifest>
